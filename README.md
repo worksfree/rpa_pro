@@ -1,5 +1,5 @@
 <details>
-  <summary> 사용법 </summary>
+  <summary>사용법 1</summary>
     * 초기 세팅
       * 라이브러리 폴더 별로 속성값을 엑셀로 정리
       * 사용자 환경에 맞춰 리소스 파일 수정
@@ -11,7 +11,7 @@
 </details>
 
 <details>
-  <summary> 사용법 </summary>
+  <summary>사용법 2</summary>
 
   * 초기 세팅
     * 라이브러리 폴더 별로 속성값을 엑셀로 정리
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>사용법</summary>
+<summary>사용법 3</summary>
 
 * 초기 세팅
   * 라이브러리 폴더 별로 속성값을 엑셀로 정리
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary>사용법</summary>
+  <summary>사용법 4</summary>
 
   * 초기 세팅
     * 라이브러리 폴더 별로 속성값을 엑셀로 정리
